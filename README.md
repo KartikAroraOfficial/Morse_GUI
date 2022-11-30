@@ -6,4 +6,4 @@ tester.py is for testing the intented functioning of the program.
  
 Use below picture as a reference for understanding the flow of code:  
 
-![This is an image](/flow of morse gui code.png) 
+![This is an image](https://github.com/KartikAroraOfficial/Morse_GUI/blob/main/flow%20of%20morse%20gui%20code.png) 
